@@ -1,10 +1,9 @@
 * cl-fix
 
+cl-fix enables you to write FIX-based systems using Common Lisp.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/fix9/cl-fix.git   |
-| commit  | {"messa  |
-| systems | cl-fix |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------|
+| source  | git:https://gitlab.com/fix9/cl-fix.git |
+| commit  | 93aa1c96                               |
+| systems | cl-fix                                 |
+|---------+----------------------------------------|
